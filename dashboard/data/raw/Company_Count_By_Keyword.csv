@@ -1,0 +1,17 @@
+﻿rank,category_order,keyword_category_ko,keyword_category_code,company_count
+1,1,감시·정찰·수색/인프라관리,surveillance_infrastructure,161
+2,3,공간정보/특수촬영,geospatial_special_imaging,103
+3,2,물류·운송·구조,logistics_transport_rescue,101
+4,14,통합솔루션,integrated_solution,92
+5,4,방역/방제/살포,pest_control_spraying,90
+6,11,임무장비,mission_equipment,89
+7,5,환경측량,environmental_survey,76
+8,6,다목적 H/W,multipurpose_hardware,70
+9,12,모듈,module,58
+10,9,드론스테이션,drone_station,54
+11,13,지상통제장비,ground_control_equipment,54
+12,8,취미·교육,hobby_education,39
+13,7,방송·공연,broadcast_performance,37
+14,15,앱,app,37
+15,16,기타,other,27
+16,10,안티드론,counter_drone,10

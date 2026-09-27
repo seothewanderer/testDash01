@@ -1,0 +1,48 @@
+﻿reconciliation_id,source_row,previous_project_title,previous_source,previous_analysis_year,currently_in_ntis_flag,processing_result,current_project_id,current_representative_project_number,row_origin,source_file,source_sheet
+1,2,에어돔 기반 밀폐형 스마트팜의 AI 복합환경제어 및 드론 기반 인공수분 통합 운영 기술 개발,NTIS-derived indexed mirror,2026,1,포함(현재 NTIS 데이터 사용),180,2420033135,SOURCE_SHEET,UAV_NTIS_RnD_FINAL_2017_2026(1).xlsx,이전자료_대조
+2,3,디지털 트윈 기반 Non-GPS 환경 대응 비전-언어-임무판단(VLA) 드론 AI 기술 개발,NTIS-derived indexed mirror,2026,1,포함(현재 NTIS 데이터 사용),285,2420033367,SOURCE_SHEET,UAV_NTIS_RnD_FINAL_2017_2026(1).xlsx,이전자료_대조
+3,4,실시간 3D 디지털 트윈 기반 자율비행 드론 영상 데이터 활용 인프라 구조물 AI 관리 시스템,NTIS-derived indexed mirror,2026,1,포함(현재 NTIS 데이터 사용),191,2420033386,SOURCE_SHEET,UAV_NTIS_RnD_FINAL_2017_2026(1).xlsx,이전자료_대조
+4,5,드론(VTOL) 이동선박 자동 추종/착선 시스템 개발,NTIS/KISTI,2026,1,포함(현재 NTIS 데이터 사용),1438,2420027575,SOURCE_SHEET,UAV_NTIS_RnD_FINAL_2017_2026(1).xlsx,이전자료_대조
+5,6,UAM 항공기 시범인증 및 적합성 입증 연구,NTIS/KISTI,2025,1,포함(현재 NTIS 데이터 사용),1612,2610000212,SOURCE_SHEET,UAV_NTIS_RnD_FINAL_2017_2026(1).xlsx,이전자료_대조
+6,7,무인기 지능형 전술임무계획 및 무장제어 기술,DTiMS/KRIT,2024,0,폐기(현재 NTIS 통합검색 미확인),,,SOURCE_SHEET,UAV_NTIS_RnD_FINAL_2017_2026(1).xlsx,이전자료_대조
+7,8,무인체계 생존성 보장을 위한 사이버전자전 기만 기술 개발(2단계),DTiMS/KRIT,2024,0,폐기(현재 NTIS 통합검색 미확인),,,SOURCE_SHEET,UAV_NTIS_RnD_FINAL_2017_2026(1).xlsx,이전자료_대조
+8,9,저피탐 무인비행체 탑재 매립형 EOTS 설계 기술,DTiMS/KRIT,2024,0,폐기(현재 NTIS 통합검색 미확인),,,SOURCE_SHEET,UAV_NTIS_RnD_FINAL_2017_2026(1).xlsx,이전자료_대조
+9,10,MR/AI 기반 드론 미래전장훈련을 위한 사이버 원격드론 전술훈련 솔루션 기술 개발 연구(2단계),DTiMS/KRIT,2024,0,폐기(현재 NTIS 통합검색 미확인),,,SOURCE_SHEET,UAV_NTIS_RnD_FINAL_2017_2026(1).xlsx,이전자료_대조
+10,11,영상기반 소형자폭무인기 다연장 발사 기술 개발,DTiMS/KRIT,2024,0,폐기(현재 NTIS 통합검색 미확인),,,SOURCE_SHEET,UAV_NTIS_RnD_FINAL_2017_2026(1).xlsx,이전자료_대조
+11,12,저궤도 위성 데이터링크 적용 중형 자폭무인기 설계 기술개발,DTiMS/KRIT,2024,0,폐기(현재 NTIS 통합검색 미확인),,,SOURCE_SHEET,UAV_NTIS_RnD_FINAL_2017_2026(1).xlsx,이전자료_대조
+12,13,유·무인전투기 복합체계용 무인전투기 AESA 레이다 기술 개발,DTiMS/KRIT,2024,0,폐기(현재 NTIS 통합검색 미확인),,,SOURCE_SHEET,UAV_NTIS_RnD_FINAL_2017_2026(1).xlsx,이전자료_대조
+13,14,소형무인기에 적합한 신관/탄두 기술 개발,DTiMS/KRIT,2024,0,폐기(현재 NTIS 통합검색 미확인),,,SOURCE_SHEET,UAV_NTIS_RnD_FINAL_2017_2026(1).xlsx,이전자료_대조
+14,15,저피탐무인편대기 내부무장베이 구동시스템 및 압력섭동 저감기술개발,DTiMS/KRIT,2024,0,폐기(현재 NTIS 통합검색 미확인),,,SOURCE_SHEET,UAV_NTIS_RnD_FINAL_2017_2026(1).xlsx,이전자료_대조
+15,16,무인비행체 대응 고출력 전자기파 기술,DTiMS/KRIT,2024,0,폐기(현재 NTIS 통합검색 미확인),,,SOURCE_SHEET,UAV_NTIS_RnD_FINAL_2017_2026(1).xlsx,이전자료_대조
+16,17,Heli-borne MUM-T용 ALE 설계 기술,DTiMS/KRIT,2023,0,폐기(현재 NTIS 통합검색 미확인),,,SOURCE_SHEET,UAV_NTIS_RnD_FINAL_2017_2026(1).xlsx,이전자료_대조
+17,18,AI 전술 참모 및 MR 기반 군집드론봇 운용통제 기술,DTiMS/KRIT,2023,0,폐기(현재 NTIS 통합검색 미확인),,,SOURCE_SHEET,UAV_NTIS_RnD_FINAL_2017_2026(1).xlsx,이전자료_대조
+18,19,심층강화학습 기반 AI 승무원 개발 및 가상전투실험 환경구축,DTiMS/KRIT,2023,0,폐기(현재 NTIS 통합검색 미확인),,,SOURCE_SHEET,UAV_NTIS_RnD_FINAL_2017_2026(1).xlsx,이전자료_대조
+19,20,고신뢰도 비행 시뮬레이션 기반 UAM 가상운용 플랫폼,NTIS/KISTI,2023,1,포함(현재 NTIS 데이터 사용),2251,1425181741,SOURCE_SHEET,UAV_NTIS_RnD_FINAL_2017_2026(1).xlsx,이전자료_대조
+20,21,드론-로봇 연계 도심지 최대중량 40kg 화물 멀티모달 배송 기술 개발,NTIS/KISTI,2023,1,포함(현재 NTIS 데이터 사용),2124,2410018387,SOURCE_SHEET,UAV_NTIS_RnD_FINAL_2017_2026(1).xlsx,이전자료_대조
+21,22,변형 가능한 무인 비행체를 통한 AI 기반 실내 공연 오브제 생성 및 운영 기술개발,NTIS/KISTI,2023,1,포함(현재 NTIS 데이터 사용),2058,1375027569,SOURCE_SHEET,UAV_NTIS_RnD_FINAL_2017_2026(1).xlsx,이전자료_대조
+22,23,센서 융합 기반 자율비행 배송드론 시스템 개발,NTIS/KISTI,2023,1,포함(현재 NTIS 데이터 사용),2011,1425178623,SOURCE_SHEET,UAV_NTIS_RnD_FINAL_2017_2026(1).xlsx,이전자료_대조
+23,24,유/무인복합체계 공통 아키텍처 및 프레임워크 기술,DTiMS/KRIT,2022,0,폐기(현재 NTIS 통합검색 미확인),,,SOURCE_SHEET,UAV_NTIS_RnD_FINAL_2017_2026(1).xlsx,이전자료_대조
+24,25,소형 다기능 모듈화 비행체 설계 기술 개발,DTiMS/KRIT,2022,0,폐기(현재 NTIS 통합검색 미확인),,,SOURCE_SHEET,UAV_NTIS_RnD_FINAL_2017_2026(1).xlsx,이전자료_대조
+25,26,헬기탑재형 무인기통제 데이터링크 및 안테나 소형화경량화 기술,DTiMS/KRIT,2022,0,폐기(현재 NTIS 통합검색 미확인),,,SOURCE_SHEET,UAV_NTIS_RnD_FINAL_2017_2026(1).xlsx,이전자료_대조
+26,27,초음속 소형 무인기용 마이크로 가스터빈 기반 고속추진시스템 기술,DTiMS/KRIT,2022,0,폐기(현재 NTIS 통합검색 미확인),,,SOURCE_SHEET,UAV_NTIS_RnD_FINAL_2017_2026(1).xlsx,이전자료_대조
+27,28,공중중계용 유/무선 드론 시스템 개발,DTiMS/KRIT,2022,0,폐기(현재 NTIS 통합검색 미확인),,,SOURCE_SHEET,UAV_NTIS_RnD_FINAL_2017_2026(1).xlsx,이전자료_대조
+28,29,동시 감시정찰을 위한 무인기 군집제어 기술,DTiMS/KRIT,2022,0,폐기(현재 NTIS 통합검색 미확인),,,SOURCE_SHEET,UAV_NTIS_RnD_FINAL_2017_2026(1).xlsx,이전자료_대조
+29,30,소형무장헬기 유무인 복합운용 임무수행체계 설계/검증기술,DTiMS/KRIT,2022,0,폐기(현재 NTIS 통합검색 미확인),,,SOURCE_SHEET,UAV_NTIS_RnD_FINAL_2017_2026(1).xlsx,이전자료_대조
+30,31,수풀지역 극복 자율비행 드론 개발,DTiMS/KRIT,2022,0,폐기(현재 NTIS 통합검색 미확인),,,SOURCE_SHEET,UAV_NTIS_RnD_FINAL_2017_2026(1).xlsx,이전자료_대조
+31,32,유무인 복합운용 의사결정지원 기술,DTiMS/KRIT,2022,0,폐기(현재 NTIS 통합검색 미확인),,,SOURCE_SHEET,UAV_NTIS_RnD_FINAL_2017_2026(1).xlsx,이전자료_대조
+32,33,전술 군집 무인기 임무계획 및 자율 임무 재계획 기술,DTiMS/KRIT,2022,0,폐기(현재 NTIS 통합검색 미확인),,,SOURCE_SHEET,UAV_NTIS_RnD_FINAL_2017_2026(1).xlsx,이전자료_대조
+33,34,군집형 무인 CPS 특화연구실,DTiMS/KRIT,2022,0,폐기(현재 NTIS 통합검색 미확인),,,SOURCE_SHEET,UAV_NTIS_RnD_FINAL_2017_2026(1).xlsx,이전자료_대조
+34,35,무인기용 고효율 터빈기술,DTiMS/KRIT,2022,0,폐기(현재 NTIS 통합검색 미확인),,,SOURCE_SHEET,UAV_NTIS_RnD_FINAL_2017_2026(1).xlsx,이전자료_대조
+35,36,드론 등 초경량비행장치를 위한 기상데이터 플랫폼 및 맞춤형 서비스 개발,NTIS/KISTI,2022,1,포함(현재 NTIS 데이터 사용),5123,1365003379,SOURCE_SHEET,UAV_NTIS_RnD_FINAL_2017_2026(1).xlsx,이전자료_대조
+36,37,점검자의 접근이 어려운 시설물 실내 외관조사를 위한 GPS-free 특수 드론을 이용한 AI기반 영상진단기법 개발,NTIS/KISTI,2022,1,포함(현재 NTIS 데이터 사용),3597,1425162863,SOURCE_SHEET,UAV_NTIS_RnD_FINAL_2017_2026(1).xlsx,이전자료_대조
+37,38,MR/AI 기반 드론 미래전장훈련을 위한 사이버 원격드론 전술훈련 솔루션 기술 개발 연구,DTiMS/KRIT,2021,0,폐기(현재 NTIS 통합검색 미확인),,,SOURCE_SHEET,UAV_NTIS_RnD_FINAL_2017_2026(1).xlsx,이전자료_대조
+38,39,광대역 저피탐 UAV 기체구조 기술연구,DTiMS/KRIT,2021,0,폐기(현재 NTIS 통합검색 미확인),,,SOURCE_SHEET,UAV_NTIS_RnD_FINAL_2017_2026(1).xlsx,이전자료_대조
+39,40,다목적 모듈장착(정찰·통신중계·조명/방송)형 유·무선 드론시스템 개발,DTiMS/KRIT,2021,1,포함(현재 NTIS 데이터 사용),4162,9991008699,SOURCE_SHEET,UAV_NTIS_RnD_FINAL_2017_2026(1).xlsx,이전자료_대조
+40,41,도심항공운송용 비행체용 정격토크 130kgfcm급 듀얼모드 이중화 구동장치 개발,DTiMS/KRIT,2021,0,폐기(현재 NTIS 통합검색 미확인),,,SOURCE_SHEET,UAV_NTIS_RnD_FINAL_2017_2026(1).xlsx,이전자료_대조
+41,42,드론용 2KG급 소형 EOTS 개발,DTiMS/KRIT,2020,1,포함(현재 NTIS 데이터 사용),5100,9991008741,SOURCE_SHEET,UAV_NTIS_RnD_FINAL_2017_2026(1).xlsx,이전자료_대조
+42,43,드론을 이용한 지면 폭발물 실시간 광역 공중탐지체계 개발,DTiMS/KRIT,2019,0,폐기(현재 NTIS 통합검색 미확인),,,SOURCE_SHEET,UAV_NTIS_RnD_FINAL_2017_2026(1).xlsx,이전자료_대조
+43,44,저고도 소형드론 식별·주파수 관리 기술 개발,ETRI,2019,1,포함(현재 NTIS 데이터 사용),5571,1711193232,SOURCE_SHEET,UAV_NTIS_RnD_FINAL_2017_2026(1).xlsx,이전자료_대조
+44,45,드론 조종성 향상을 위한 3인칭 3차원 영상 처리/전송 장치 개발,DTiMS/KRIT,2018,1,포함(현재 NTIS 데이터 사용),6686,1415170956,SOURCE_SHEET,UAV_NTIS_RnD_FINAL_2017_2026(1).xlsx,이전자료_대조
+45,46,함정 및 해상 임무용 드론시스템 개발,DTiMS/KRIT,2018,1,포함(현재 NTIS 데이터 사용),6283,9991007891,SOURCE_SHEET,UAV_NTIS_RnD_FINAL_2017_2026(1).xlsx,이전자료_대조
+46,47,중형 무인항공기용 착륙장치 완충기 2종,DTiMS/KRIT,2017,0,폐기(현재 NTIS 통합검색 미확인),,,SOURCE_SHEET,UAV_NTIS_RnD_FINAL_2017_2026(1).xlsx,이전자료_대조
+47,48,무인항공기(드론)용 고용량/고효율 수소저장체 개발 및 Prototype을 적용한 PEM 연료전지 실증 연구,DTiMS/KRIT,2017,0,폐기(현재 NTIS 통합검색 미확인),,,SOURCE_SHEET,UAV_NTIS_RnD_FINAL_2017_2026(1).xlsx,이전자료_대조

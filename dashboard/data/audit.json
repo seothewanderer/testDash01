@@ -1,0 +1,1174 @@
+{
+  "as_of": "2026-09-26",
+  "company_links": [
+    {
+      "posting_id": "JOB_49713038",
+      "source_name": "풍산",
+      "company_id": "CMP0252",
+      "basis": "기업명 정확 일치",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "JOB_49713064",
+      "source_name": "풍산",
+      "company_id": "CMP0252",
+      "basis": "기업명 정확 일치",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "JOB_49713071",
+      "source_name": "풍산",
+      "company_id": "CMP0252",
+      "basis": "기업명 정확 일치",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "JOB_49713079",
+      "source_name": "풍산",
+      "company_id": "CMP0252",
+      "basis": "기업명 정확 일치",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "JOB_49713087",
+      "source_name": "풍산",
+      "company_id": "CMP0252",
+      "basis": "기업명 정확 일치",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "JOB_49713094",
+      "source_name": "풍산",
+      "company_id": "CMP0252",
+      "basis": "기업명 정확 일치",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "JOB_49819175",
+      "source_name": "아크로사",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "JOB_49844334",
+      "source_name": "다원솔루텍",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "JOB_49865329",
+      "source_name": "프리뉴",
+      "company_id": "CMP0254",
+      "basis": "기업명 정확 일치",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "JOB_49893527",
+      "source_name": "모빌리티랩",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "JOB_49899071",
+      "source_name": "헬셀",
+      "company_id": "CMP0290",
+      "basis": "기업명 정확 일치",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "JOB_49913994",
+      "source_name": "태경전자",
+      "company_id": "CMP0239",
+      "basis": "기업명 정확 일치",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "JOB_49933088",
+      "source_name": "리포나",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "JOB_49940210",
+      "source_name": "아이온",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "JOB_49955059",
+      "source_name": "에이럭스",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "JOB_49955114",
+      "source_name": "에이럭스",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "JOB_49955170",
+      "source_name": "에이럭스",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "JOB_49960036",
+      "source_name": "프리뉴",
+      "company_id": "CMP0254",
+      "basis": "기업명 정확 일치",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "JOB_49982623",
+      "source_name": "패리티",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "JOB_49994334",
+      "source_name": "케이프로시스템",
+      "company_id": "CMP0231",
+      "basis": "기업명 정확 일치",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "JOB_49994716",
+      "source_name": "데이터디자인엔지니어링",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "JOB_49994720",
+      "source_name": "데이터디자인엔지니어링",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "JOB_50000499",
+      "source_name": "아크로사",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54535195",
+      "source_name": "에코로보텍",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54536254",
+      "source_name": "에이스드론",
+      "company_id": "CMP0174",
+      "basis": "기업명 정확 일치",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54551832",
+      "source_name": "케이테크",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54573586",
+      "source_name": "엠지아이티",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54583228",
+      "source_name": "대천농기계",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54583261",
+      "source_name": "대천농기계",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54585688",
+      "source_name": "프리뉴",
+      "company_id": "CMP0254",
+      "basis": "기업명 정확 일치",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54586416",
+      "source_name": "다온아이앤씨",
+      "company_id": "CMP0039",
+      "basis": "기업명 정확 일치",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54622417",
+      "source_name": "엠지아이티",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54623164",
+      "source_name": "파이온시스템즈",
+      "company_id": "CMP0243",
+      "basis": "기업명 정확 일치",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54632689",
+      "source_name": "와우미래기술",
+      "company_id": "CMP0196",
+      "basis": "기업명 정확 일치",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54643517",
+      "source_name": "모빌리티랩",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54646364",
+      "source_name": "풍산",
+      "company_id": "CMP0252",
+      "basis": "기업명 정확 일치",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54659761",
+      "source_name": "화인코왁",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54659774",
+      "source_name": "파블로항공",
+      "company_id": "CMP0242",
+      "basis": "기업명 정확 일치",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54659785",
+      "source_name": "화인코왁",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54659796",
+      "source_name": "화인코왁",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54663935",
+      "source_name": "케이(K)드론",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54681373",
+      "source_name": "대한이앤씨",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54694482",
+      "source_name": "그리폰다이나믹스",
+      "company_id": "CMP0020",
+      "basis": "기업명 정확 일치",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54708677",
+      "source_name": "프리뉴",
+      "company_id": "CMP0254",
+      "basis": "기업명 정확 일치",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54708690",
+      "source_name": "프리뉴",
+      "company_id": "CMP0254",
+      "basis": "기업명 정확 일치",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54742633",
+      "source_name": "시프트다이나믹스",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54742673",
+      "source_name": "시프트다이나믹스",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54770502",
+      "source_name": "와이즈교육",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54773198",
+      "source_name": "네패르",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54781970",
+      "source_name": "대용",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54782418",
+      "source_name": "나르마",
+      "company_id": "CMP0026",
+      "basis": "기업명 정확 일치",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54782754",
+      "source_name": "아주실업",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54786041",
+      "source_name": "연안관리기술연구소",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54787231",
+      "source_name": "데이터디자인엔지니어링",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54794551",
+      "source_name": "그리폰다이나믹스",
+      "company_id": "CMP0020",
+      "basis": "기업명 정확 일치",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54799206",
+      "source_name": "다온아이앤씨",
+      "company_id": "CMP0039",
+      "basis": "기업명 정확 일치",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54801514",
+      "source_name": "드론메이커스",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54802679",
+      "source_name": "미온포레스트(MiONForestCorp.)",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54805687",
+      "source_name": "프리뉴",
+      "company_id": "CMP0254",
+      "basis": "기업명 정확 일치",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54812157",
+      "source_name": "선우",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54813336",
+      "source_name": "제이와이시스템",
+      "company_id": "CMP0221",
+      "basis": "기업명 정확 일치",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54815550",
+      "source_name": "케이테크",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54823087",
+      "source_name": "코세코",
+      "company_id": "CMP0235",
+      "basis": "기업명 정확 일치",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54834065",
+      "source_name": "디제이아이테크놀로지코리아",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54834503",
+      "source_name": "라이트모형",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54841559",
+      "source_name": "게이트비젼",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54842647",
+      "source_name": "게이트비젼",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54855139",
+      "source_name": "단디(Dandi)",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54855373",
+      "source_name": "둠둠",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54868174",
+      "source_name": "니어스랩",
+      "company_id": "CMP0037",
+      "basis": "기업명 정확 일치",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54868194",
+      "source_name": "니어스랩",
+      "company_id": "CMP0037",
+      "basis": "기업명 정확 일치",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54868217",
+      "source_name": "니어스랩",
+      "company_id": "CMP0037",
+      "basis": "기업명 정확 일치",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54868236",
+      "source_name": "니어스랩",
+      "company_id": "CMP0037",
+      "basis": "기업명 정확 일치",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54868383",
+      "source_name": "니어스랩",
+      "company_id": "CMP0037",
+      "basis": "기업명 정확 일치",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54868408",
+      "source_name": "니어스랩",
+      "company_id": "CMP0037",
+      "basis": "기업명 정확 일치",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54868449",
+      "source_name": "니어스랩",
+      "company_id": "CMP0037",
+      "basis": "기업명 정확 일치",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54868472",
+      "source_name": "니어스랩",
+      "company_id": "CMP0037",
+      "basis": "기업명 정확 일치",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54868483",
+      "source_name": "니어스랩",
+      "company_id": "CMP0037",
+      "basis": "기업명 정확 일치",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54868500",
+      "source_name": "니어스랩",
+      "company_id": "CMP0037",
+      "basis": "기업명 정확 일치",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54868521",
+      "source_name": "니어스랩",
+      "company_id": "CMP0037",
+      "basis": "기업명 정확 일치",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54868554",
+      "source_name": "니어스랩",
+      "company_id": "CMP0037",
+      "basis": "기업명 정확 일치",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54879406",
+      "source_name": "캣츠",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54881233",
+      "source_name": "유아이헬리콥터",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54883185",
+      "source_name": "이파워트레인코리아",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54890935",
+      "source_name": "엠지아이티",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54897501",
+      "source_name": "필라넷",
+      "company_id": "CMP0258",
+      "basis": "기업명 정확 일치",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54901580",
+      "source_name": "드림엔지니어링",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54902427",
+      "source_name": "모빌리티랩",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54903531",
+      "source_name": "한토공간기술",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54916355",
+      "source_name": "아스트로엑스",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54916362",
+      "source_name": "아스트로엑스",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54918825",
+      "source_name": "유콘시스템",
+      "company_id": "CMP0205",
+      "basis": "기업명 정확 일치",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54919618",
+      "source_name": "지오랩스",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54923547",
+      "source_name": "단디(Dandi)",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54923648",
+      "source_name": "단디(Dandi)",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54926472",
+      "source_name": "비씨디이엔씨",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54927518",
+      "source_name": "스마일드론",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54928630",
+      "source_name": "아이티포",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54930845",
+      "source_name": "니어스랩",
+      "company_id": "CMP0037",
+      "basis": "기업명 정확 일치",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54930905",
+      "source_name": "니어스랩",
+      "company_id": "CMP0037",
+      "basis": "기업명 정확 일치",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54931008",
+      "source_name": "스카우트파트너스",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54932066",
+      "source_name": "트라이디",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54936543",
+      "source_name": "솔더",
+      "company_id": "CMP0130",
+      "basis": "기업명 정확 일치",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54966581",
+      "source_name": "엔키화이트햇",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54970878",
+      "source_name": "게이트비젼",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54972353",
+      "source_name": "퀀텀에어로",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54979490",
+      "source_name": "테라로보틱스",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54981251",
+      "source_name": "아리온",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54985475",
+      "source_name": "한국교통안전공단",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54985837",
+      "source_name": "이노드",
+      "company_id": "CMP0207",
+      "basis": "기업명 정확 일치",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54985881",
+      "source_name": "한국교통안전공단",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54986012",
+      "source_name": "에이럭스",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54986029",
+      "source_name": "에이럭스",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54986192",
+      "source_name": "에이럭스",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54987042",
+      "source_name": "유비파이",
+      "company_id": "CMP0202",
+      "basis": "기업명 정확 일치",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_54996441",
+      "source_name": "애나",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_55001565",
+      "source_name": "에이치알원컨설팅",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_55001570",
+      "source_name": "에이치알원컨설팅",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_55001578",
+      "source_name": "에이치알원컨설팅",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_55002735",
+      "source_name": "아리온",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_55003036",
+      "source_name": "그리폰다이나믹스",
+      "company_id": "CMP0020",
+      "basis": "기업명 정확 일치",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_55005977",
+      "source_name": "지에이",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_55011212",
+      "source_name": "피플뱅크코리아",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_55012005",
+      "source_name": "제노소프트",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_55017000",
+      "source_name": "대동공업주화순대리점",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_55022700",
+      "source_name": "한화시스템",
+      "company_id": "CMP0283",
+      "basis": "기업명 정확 일치",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_55023353",
+      "source_name": "넥스트에어로스페이스",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_55025341",
+      "source_name": "패리티",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_55028013",
+      "source_name": "한국항공기술케이에이티",
+      "company_id": "CMP0274",
+      "basis": "기업명 정확 일치",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_55049630",
+      "source_name": "유피이엔지",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_55055172",
+      "source_name": "그리폰다이나믹스",
+      "company_id": "CMP0020",
+      "basis": "기업명 정확 일치",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_55064637",
+      "source_name": "니어스랩",
+      "company_id": "CMP0037",
+      "basis": "기업명 정확 일치",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_55067065",
+      "source_name": "유비파이",
+      "company_id": "CMP0202",
+      "basis": "기업명 정확 일치",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_55070181",
+      "source_name": "단디(Dandi)",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    },
+    {
+      "posting_id": "SAR_55070871",
+      "source_name": "네패르",
+      "company_id": null,
+      "basis": "기업정보 미연결",
+      "rule_version": "exact-name-v1"
+    }
+  ],
+  "salary": {
+    "JOB_49819175": {
+      "min": 4000,
+      "max": null,
+      "basis": "연봉 4,000만원 이상 (면접 후 결정)",
+      "rule": "연봉 원문 단일 금액; 상한 미확인"
+    },
+    "JOB_49844334": {
+      "min": 4000,
+      "max": null,
+      "basis": "연봉 4,000만원 이상 (면접 후 결정)",
+      "rule": "연봉 원문 단일 금액; 상한 미확인"
+    },
+    "JOB_49893527": {
+      "min": 5000,
+      "max": 8000,
+      "basis": "연봉 5,000~8,000만원 (면접 후 결정)",
+      "rule": "연봉 원문 범위 재추출"
+    },
+    "JOB_49994334": {
+      "min": 2600,
+      "max": 5000,
+      "basis": "연봉 2,600~5,000만원 (면접 후 결정)",
+      "rule": "연봉 원문 범위 재추출"
+    },
+    "JOB_50000499": {
+      "min": 4500,
+      "max": null,
+      "basis": "연봉 4,500만원 이상 (면접 후 결정)",
+      "rule": "연봉 원문 단일 금액; 상한 미확인"
+    },
+    "SAR_54643517": {
+      "min": 8000,
+      "max": null,
+      "basis": "연봉 8,000 만원 (주 40시간)",
+      "rule": "연봉 원문 단일 금액; 상한 미확인"
+    },
+    "SAR_54801514": {
+      "min": 3000,
+      "max": null,
+      "basis": "연봉 3,000 만원 (주 40시간)",
+      "rule": "연봉 원문 단일 금액; 상한 미확인"
+    },
+    "SAR_54890935": {
+      "min": 3000,
+      "max": null,
+      "basis": "연봉 3,000 만원 (주 40시간)",
+      "rule": "연봉 원문 단일 금액; 상한 미확인"
+    },
+    "SAR_55070181": {
+      "min": 3500,
+      "max": null,
+      "basis": "연봉 3,500 만원 (주 40시간)",
+      "rule": "연봉 원문 단일 금액; 상한 미확인"
+    }
+  },
+  "cost_issue_ids": [
+    "ACG20253001061519",
+    "ACG20253001077931",
+    "ACG20253001100205",
+    "ACG20263001154048",
+    "ACG20263001165807",
+    "ACG20263001192049",
+    "ACG20263001251328",
+    "ACG20263001414787",
+    "AIG20240000498076",
+    "AIG20250000501335",
+    "AIG20250000502445",
+    "AIG20250000502620",
+    "AIG20250000503304",
+    "AIG20250000503351",
+    "AIG20250000504420",
+    "AIG20250000504590",
+    "AIG20250000504936",
+    "AIG20250000505226",
+    "AIG20250000505519",
+    "AIG20250000505532",
+    "AIG20250000505693",
+    "AIG20250000506180",
+    "AIG20250000507756",
+    "AIG20250000508278",
+    "AIG20250000508720",
+    "AIG20250000508800",
+    "AIG20250000508865",
+    "AIG20250000508924",
+    "AIG20250000509002",
+    "AIG20250000509552",
+    "AIG20250000509639",
+    "AIG20250000509711",
+    "AIG20250000509778",
+    "AIG20250000510905",
+    "AIG20250000510984",
+    "AIG20250000511074",
+    "AIG20250000511659",
+    "AIG20250000511898",
+    "AIG20250000512274",
+    "AIG20250000513041",
+    "AIG20250000513132",
+    "AIG20250000513160",
+    "AIG20250000513278",
+    "AIG20250000513585",
+    "AIG20250000514827",
+    "AIG20250000515012",
+    "AIG20250000515436",
+    "AIG20250000515467",
+    "AIG20250000515496",
+    "AIG20250000515594",
+    "AIG20250000515742",
+    "AIG20250000516351",
+    "AIG20250000516429",
+    "AIG20250000516588",
+    "AIG20250000516668",
+    "AIG20250000517356",
+    "AIG20250000518065",
+    "AIG20250000519317",
+    "AIG20250000519356",
+    "AIG20250000519400",
+    "AIG20250000519760",
+    "AIG20250000519996",
+    "AIG20250000520098",
+    "AIG20250000520214",
+    "AIG20250000520283",
+    "AIG20250000520672",
+    "AIG20250000520729",
+    "AIG20250000520748",
+    "AIG20250000520984",
+    "AIG20250000521044",
+    "AIG20250000521046",
+    "AIG20250000521919",
+    "AIG20250000523342",
+    "AIG20250000525906",
+    "AIG20250000526030",
+    "AIG20250000527104",
+    "AIG20250000527495",
+    "AIG20250000527644",
+    "AIG20250000527825",
+    "AIG20250000528466",
+    "AIG20250000528935",
+    "AIG20250000529057",
+    "AIG20250000529150",
+    "AIG20250000529188",
+    "AIG20250000529268",
+    "AIG20250000529814",
+    "AIG20250000530943",
+    "AIG20250000531836",
+    "AIG20250000531840",
+    "AIG20250000531843",
+    "AIG20250000531939",
+    "AIG20250000531993",
+    "AIG20250000532017",
+    "AIG20250000532020",
+    "AIG20250000532091",
+    "AIG20250000532096",
+    "AIG20250000532702",
+    "AIG20250000533696",
+    "AIG20250000533755",
+    "AIG20250000533785",
+    "AIG20250000533818",
+    "AIG20250000533871",
+    "AIG20250000533925",
+    "AIG20250000533939",
+    "AIG20250000534362",
+    "AIG20250000535466",
+    "AIG20250000535769",
+    "AIG20250000535974",
+    "AIG20250000536056",
+    "AIG20250000536111",
+    "AIG20250000536277",
+    "AIG20250000536325",
+    "AIG20250000536479",
+    "AIG20250000536681",
+    "AIG20250000539903",
+    "AIG20250000539926",
+    "AIG20253001085938",
+    "AIG20253001085939",
+    "AIG20253001086501",
+    "AIG20253001086758",
+    "AIG20253001093131",
+    "AIG20253001093266",
+    "AIG20253001094079",
+    "AIG20253001110873",
+    "AIG20253001121476",
+    "AIG20253001121514",
+    "AIG20253001127150",
+    "AIG20260000543299",
+    "AIG20260000545210",
+    "AIG20260000545759",
+    "AIG20260000545764",
+    "AIG20260000547151",
+    "AIG20260000547213",
+    "AIG20263001247924",
+    "AIG20263001258359",
+    "AIG20263001303135",
+    "AIG20263001328668",
+    "AIG20263001344721",
+    "AIG20263001344830",
+    "AIG20263001345190",
+    "AIG20263001359663",
+    "AIG20263001361326",
+    "AIG20263001384394",
+    "AIG20263001425858",
+    "AVA20253001112867",
+    "AVA20253001112883",
+    "AVA20263001321903"
+  ],
+  "schedule_status": {
+    "종료": 916,
+    "진행": 129,
+    "시작 예정": 217
+  },
+  "counts": {
+    "files": 54,
+    "postings": 135,
+    "roles": 209,
+    "courses": 148,
+    "sessions": 1262,
+    "companies": 300,
+    "linked_postings": 52,
+    "high_confidence_projects": 2936,
+    "bid_items": 5226,
+    "bids": 5217,
+    "contract_rows": 416,
+    "contracts": 367
+  }
+}

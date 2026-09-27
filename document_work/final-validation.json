@@ -1,0 +1,29 @@
+{
+  "status": "PASS",
+  "files": [
+    {
+      "file": "01_데이터_명세와_활용설계.docx",
+      "pages": 17,
+      "sha256": "31127b1bcac59fc0f416d9a2540f0a36bb5a5c9c6e67c701d3addb59b7402d7f"
+    },
+    {
+      "file": "02_제작과정과_기획정합성_보고서.docx",
+      "pages": 7,
+      "sha256": "26f82bb8e67336c4a4a952e78ae46ec170966536e32cb8b5e3799a48881790a6"
+    },
+    {
+      "file": "03_프로젝트_기획서_구현현황_보완본.docx",
+      "pages": 7,
+      "sha256": "809ff9b68ad6114f8b7010555e321ba040a4c34f3d3e9d0d9e6aa74316013548"
+    }
+  ],
+  "checks": [
+    "54 CSV names documented",
+    "exactly 3 final DOCX files",
+    "all 31 rendered pages visually reviewed",
+    "no blank pages",
+    "original plan body and other package parts preserved",
+    "original plan first two rendered pages text unchanged",
+    "original attachment hash unchanged"
+  ]
+}

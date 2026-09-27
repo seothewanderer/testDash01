@@ -1,0 +1,13 @@
+{
+  "reference_sha256": "d676e0f9fb6f3b2b603a3fd83c4ad45ec0fea26e9c57c07594856dc565dc812d",
+  "changed_parts": [
+    "word/document.xml"
+  ],
+  "original_body_elements_preserved": 33,
+  "added_sections": [
+    "8",
+    "9",
+    "10",
+    "11"
+  ]
+}
